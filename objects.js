@@ -1,5 +1,5 @@
 var playlist = {
-  FooFighters: 'Everlong',
+  fooFighters: 'Everlong',
   Prince: 'Purple Rain'
 }
 
